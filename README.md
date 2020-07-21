@@ -1,6 +1,6 @@
 # Nashville-Traffic-Accidents
 
-<img src="images/" width="650">
+<img src="images/nashville-events-calendar-december.jpg" width="650">
 
 ## INTRODUCTION:
 I am presenting about what features lead to higher/lower injury or fatality rates among car accidents. My interest in self-driving cars lead me to this topic.
