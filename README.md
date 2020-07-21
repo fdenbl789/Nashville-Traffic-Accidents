@@ -17,7 +17,7 @@ The skills used to complete this project consisted of sourcing data by API, data
 ## Visualization:
 This is a map showing the accidents that occured in Nashville in 2018. The green dots represent an accident in which no harm occured. The red dots represent an accident in which an injury or fatality occured.
 
-<img src="images/" width="950">
+<img src="images/Map%20of%20Nashville%20Accidents.png" width="950">
 
 ## What I Posted on Github:
 There are three notebooks posted on Github. The first consisted of data cleaning and EDA. The second consisted of a map of traffic accidents. The third consisted of additional EDA and model testing classification evaluation. Lastly, the ReadMe which is a layout my project.
