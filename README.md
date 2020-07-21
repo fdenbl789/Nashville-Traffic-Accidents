@@ -3,10 +3,10 @@
 <img src="images/Picture%20of%20Nashville.jpg" width="650">
 
 ## Introduction:
-I am presenting about what features lead to higher/lower injury or fatality rates among car accidents. My interest in self-driving cars lead me to this topic.
+This project is about what features lead to higher/lower injury or fatality rates among car accidents. My interest in self-driving cars lead me to this topic.
 
 ## Objective:
-To do EDA and test different classification models to determine which features have the most positive or negative influence on injury or fatality. These results can be used to reduce the amount injuries and fatalities due to traffic accidents.
+To do EDA and test different classification models to determine which features have the most positive or negative influence on injury or fatality. These results can be used to reduce the amount injuries and fatalities due to accidents.
 
 ## The Dataset:
 Obtained 34,000+ accidents from the Metro Nashville Police Department sourced with Socrata Open Data API. Some of the features included weather, collision type and lighting conditions. Since these features are categorical, I created dummy columns with them. I also did some feature engineering with the datetime feature. I created 'hour_of_day', 'month', 'day_of_week' and 'is_holiday' features from datetime.
