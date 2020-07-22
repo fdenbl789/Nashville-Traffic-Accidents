@@ -40,7 +40,7 @@ There are three notebooks posted on Github. The first consisted of data cleaning
 Based on the fact that the highest positive affect on injury or fatality was "single vehicle collision" in the collision type feature, I would recommend crash avoidance systems leading up to self-driving technologies.
 
 ## Presentation Link:
-https://docs.google.com/presentation/d/1SsFSUOURUnbo6AjTIF0NUPqqf-Whgp2DTrux_G4WcYQ/edit#slide=id.g808e4a1cc6_0_258
+https://docs.google.com/presentation/d/1SsFSUOURUnbo6AjTIF0NUPqqf-Whgp2DTrux_G4WcYQ/edit#slide=id.g808e4a1cc6_0_277
 
 ## Image Reference:
 https://www.trolleytours.com/nashville/2-day-itinerary
